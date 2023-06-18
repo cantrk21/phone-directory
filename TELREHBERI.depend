@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685370431 source:c:\users\excal›bur\desktop\c dersleri\telrehberi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+	"menu.h"
+	"phoneadd.h"
+	"phonelist.h"
+	"phonesearch.h"
+
+1685368812 c:\users\excal›bur\desktop\c dersleri\telrehberi\header.h
+
+1685368919 c:\users\excal›bur\desktop\c dersleri\telrehberi\menu.h
+
+1685435221 c:\users\excal›bur\desktop\c dersleri\telrehberi\phoneadd.h
+
+1685369912 c:\users\excal›bur\desktop\c dersleri\telrehberi\phonelist.h
+
+1685370392 c:\users\excal›bur\desktop\c dersleri\telrehberi\phonesearch.h
+
